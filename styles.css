@@ -8,7 +8,7 @@
 body{
     display: flex;
     margin: 3px;
-    flex-grow: 1
+    flex-grow: 1 
 }
 
 header{
